@@ -1,5 +1,5 @@
 import XCTest
-@testable import Game_Controller_UI
+@testable import GameControllerKit
 
 final class Game_Controller_UITests: XCTestCase {
     func testExample() {
